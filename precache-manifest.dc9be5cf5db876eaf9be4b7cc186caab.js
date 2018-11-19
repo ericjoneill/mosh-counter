@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/mosh-counter/static/js/runtime~main.3f04d4c4.js"
   },
   {
-    "revision": "986d91a2193cf79394ba",
-    "url": "/mosh-counter/static/js/main.986d91a2.chunk.js"
+    "revision": "58cfa03cea7303f39026",
+    "url": "/mosh-counter/static/js/main.58cfa03c.chunk.js"
   },
   {
     "revision": "4c43221b5d052f9c2228",
     "url": "/mosh-counter/static/js/1.4c43221b.chunk.js"
   },
   {
-    "revision": "986d91a2193cf79394ba",
+    "revision": "58cfa03cea7303f39026",
     "url": "/mosh-counter/static/css/main.af006086.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/mosh-counter/static/css/1.7aad8dd5.chunk.css"
   },
   {
-    "revision": "4283793082bf13c4b926f6f244d86247",
+    "revision": "cd67eeb595891d428ce497496c82385c",
     "url": "/mosh-counter/index.html"
   }
 ];
